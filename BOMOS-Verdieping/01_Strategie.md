@@ -55,7 +55,7 @@ Dit wil niet zeggen dat formele standaardisatieorganisaties geen waarde hebben, 
 
 De inhoudelijke kennis zal echter altijd zelf georganiseerd moeten worden. Onderzoeksorganisaties, zoals universiteiten en instituten, zijn een andere mogelijkheid om taken bij te beleggen. Voordeel is de schat aan inhoudelijke kennis, maar mogelijk ook een gebrek aan domeinkennis of kennis van het specifieke gebruik. Het tegenovergestelde is het geval bij brancheorganisaties; voordeel hier is de uitmuntende domeinkennis, maar nadeel is juist een gebrek aan inhoudelijke standaardisatie/ICT kennis. Vaak zijn (semantische) standaarden voor brancheorganisaties een ver van hun bed show. Het onderwerp wordt al snel afgedaan als iets van techneuten, wat het in de kern niet is; juist voor semantiek is domeinkennis van groot belang.
 
-Een eigen organisatie oprichten is een mogelijkheid, evenals commerciële dienstverleners inschakelen. Dat laatste is wel op gespannen voet met de openheidprincipes. De eigen organisatie is de meest gekozen optie voor de kern van ontwikkelen beheertaken. Velen domeinen kennen inmiddels eigen organisaties die kennis hebben van zowel het domein als standaardisatie, bijvoorbeeld (Geonovum, EduStandaard, CROW, Informatiehuis Water, SETU, etc.). Tot de kern van hun werk behoren de strategische beheeractiviteiten zoals geÃ¯dentificeerd in het model, en in grote mate ook de tactische en operationele activiteiten. In deze situatie zijn bepaalde activiteiten eenvoudig en zelfs beter om uit te besteden.
+Een eigen organisatie oprichten is een mogelijkheid, evenals commerciële dienstverleners inschakelen. Dat laatste is wel op gespannen voet met de openheidprincipes. De eigen organisatie is de meest gekozen optie voor de kern van ontwikkelen beheertaken. Velen domeinen kennen inmiddels eigen organisaties die kennis hebben van zowel het domein als standaardisatie, bijvoorbeeld (Geonovum, EduStandaard, CROW, Informatiehuis Water, SETU, etc.). Tot de kern van hun werk behoren de strategische beheeractiviteiten zoals geïdentificeerd in het model, en in grote mate ook de tactische en operationele activiteiten. In deze situatie zijn bepaalde activiteiten eenvoudig en zelfs beter om uit te besteden.
 
 Een aantal suggesties:
 
@@ -286,17 +286,17 @@ Bijzondere aandacht verdient ook business case type 3: Vervangende standaard/ ni
 ### Het opstellen van een business case
 Ondanks de geschetste moeilijkheden en de verschillende poging-en die al gedaan zijn, proberen we toch een aanpak te schetsen die inzicht kan bieden in de business case. De aanpak in deze paragraaf beschreven is gebruikt om een business case voor een semantische standaard in de juweliersbranche op te stellen: Stappenplan:
 
-1. Beschrijf huidige situaties en toekomstscenarioâ€™s en identificeer stakeholders.
+1. Beschrijf huidige situaties en toekomstscenario's en identificeer stakeholders.
 2. Bepaal de kosten en baten in de keten op basis van het raamwerk.
 3. Verdeel de kosten en baten naar verschillende stakeholders (Probeer de kosten en baten per stakeholder te kwantificeren.)
 
 De eerste drie stappen worden toegelicht:
 
 
-#### Beschrijf huidige situaties en toekomstscenarioâ€™s en identificeer stakeholders.
+#### Beschrijf huidige situaties en toekomstscenario's en identificeer stakeholders.
 De eerste stap begint met een analyse van de stakeholders; wat zijn de partijen die een relatie hebben tot het interoperabiliteitsprobleem waarin een mogelijke standaard een oplossing kan bieden. Voor het identificeren  van de stakeholders, kan de NEN stakeholderanalyse gebruikt worden (zie paragraaf 7.4).
 
-Vervolgens wordt de huidige situatie geanalyseerd; wat zijn de uitgangsposities van waaruit de primaire stakeholder moeten vertrekken. Daarbij dient ook het beeld van het toekomstscenario met standaard helder te zijn, zodat de migratiepaden van de huidige situatie naar de toekomstscenarioâ€™s duidelijk zijn.
+Vervolgens wordt de huidige situatie geanalyseerd; wat zijn de uitgangsposities van waaruit de primaire stakeholder moeten vertrekken. Daarbij dient ook het beeld van het toekomstscenario met standaard helder te zijn, zodat de migratiepaden van de huidige situatie naar de toekomstscenario's duidelijk zijn.
 
 Het figuur geeft dit weer voor de primaire stakeholder de juwelier in dit voorbeeld. Uiteraard is het bij de implementatie de bedoeling om ervoor te zorgen dat zoveel mogelijk partijen in toekomstscenario 1 of 2 terecht komen en de standaard gaan gebruiken.
 
